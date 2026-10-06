@@ -11,6 +11,6 @@ console.log("text will come after 3 sec");
 }, 3000);
 //Expected output:
 //FSD Assignment 1 - synchronous method se
-//Homework uploaded
-//Solution has been coded by student
-//Solution is pushed through git
+//Assignment-1 upload kr dia
+//Solution pushed through github
+//text will come after 3 sec
